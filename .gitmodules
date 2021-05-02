@@ -5,3 +5,8 @@
 [submodule "traz_al_sharqi"]
 	path = traz_al_sharqi
 	url = git@github.com:Shams97/traz_al_sharqi.git
+
+[submodule "Shams97/traz_report_module"]
+	path = Shams97/traz_report_module
+	url = git@github.com:Shams97/traz_report_module.git
+	branch = main
